@@ -1,0 +1,6 @@
+{
+    "name": "graphql-server",
+    "description": "My GraphQL Server",
+    "repository": "https://github.com/walesoft28/graphql-server.git",
+    "keywords": ["GraphQL", "node", "express", "server"]
+}
